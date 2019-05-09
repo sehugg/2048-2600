@@ -49,6 +49,10 @@ I suggest using [Stella][13], or a real Atari with an [Harmony][14] cart. In eit
 
 If you are running on a PAL Atari/TV, put the TV TYPE switch on the B•W position.
 
+## On 8bitworkshop.com
+
+You can build and run this project in [8bitworkshop](http://8bitworkshop.com/redir.html?platform=vcs). The main file is [2048-singlefile.asm](2048-singlefile.asm#mainfile).
+
 ## Bulding / Development info
 
 All the juicy details are included on [2048.asm][3] (the main source file), and a bit easier to read [on this blog post][12].

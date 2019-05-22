@@ -51,7 +51,7 @@ If you are running on a PAL Atari/TV, put the TV TYPE switch on the B•W positi
 
 ## On 8bitworkshop.com
 
-You can build and run this project in [8bitworkshop](http://8bitworkshop.com/redir.html?platform=vcs). The main file is [2048-singlefile.asm](2048-singlefile.asm#mainfile).
+You can build and run this project in [8bitworkshop](http://8bitworkshop.com/redir.html?platform=vcs&file=2048-singlefile.asm&githubURL=https://github.com/sehugg/2048-2600).
 
 ## Bulding / Development info
 
